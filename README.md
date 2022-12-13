@@ -1,2 +1,3 @@
 # Quiz-
-Quiz app based on react
+Quiz app based on java script
+
